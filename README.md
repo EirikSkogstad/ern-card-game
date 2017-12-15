@@ -1,6 +1,9 @@
 # ERN card game application
 Fork of the original repository we worked on during Enterprise-/Spring-exam.
-[Original repository](https://github.com/NikitaZhevnitskiy/ern-card-game)  
+
+[Original repository location](https://github.com/NikitaZhevnitskiy/ern-card-game)  
+
+### Postman collection for 
 POSTMAN collection to import [https://www.getpostman.com/collections/4861fc79ed63396ab79f](https://www.getpostman.com/collections/4861fc79ed63396ab79f)  
 Make sure to check the description of postman requests   
 
